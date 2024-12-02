@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhruv Verma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+<img align="right" width= "400" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1733124257~exp=1733127857~hmac=bf0c7cd19e5b720625e4946dd8cc657aacbf4c661368ba8a85171e37ad69f91b&w=900" alt="coding" />
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medhruv27&label=Profile%20views&color=0e75b6&style=flat" alt="medhruv27" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medhruv27" alt="medhruv27" /></a> </p>
