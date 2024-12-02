@@ -11,9 +11,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 📝 Check on my articles [https://medium.com/@dv21578/to-efficiently-detect-if-an-image-taken-by-the-camera-is-too-dark-on-the-device-without-sending-ae12f59ff7dd](https://medium.com/@dv21578/to-efficiently-detect-if-an-image-taken-by-the-camera-is-too-dark-on-the-device-without-sending-ae12f59ff7dd)
-
-- 💬 Ask me about **React**
+- 💬 Ask me about **DSA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
