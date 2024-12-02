@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQFUp37CfO1DZQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732571641847?e=1738800000&v=beta&t=xU63OJFr04tWMjZr3GGWfiFTb5YjDvZimO2eP1XkMMU" alt="MasterHead" width="100%" />
+  <img src="https://user-images.githubusercontent.com/56738141/186486128-a67ee896-647f-4a1e-902d-30961b2b5c21.png" alt="MasterHead" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhruv Verma</h1>
