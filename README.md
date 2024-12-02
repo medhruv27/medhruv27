@@ -1,3 +1,4 @@
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQFUp37CfO1DZQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732571641847?e=1738800000&v=beta&t=xU63OJFr04tWMjZr3GGWfiFTb5YjDvZimO2eP1XkMMU)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dhruv Verma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
